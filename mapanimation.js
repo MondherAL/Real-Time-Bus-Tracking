@@ -18,7 +18,7 @@ const busStops = [
 
 // TODO: add your own access token
 mapboxgl.accessToken =
-'pk.eyJ1IjoibW9uZGhlcmwiLCJhIjoiY2wwdzIxYTNpMG95aDNjbXQ2dGJ2anR5ZyJ9.2ywVrZqsdS4y67fSp7z6YA';
+// 403: forbidden errors from Terminal or Postman
 
 // TODO: create the map object using mapboxgl.map() function
 let map = new mapboxgl.Map({
